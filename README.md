@@ -1,9 +1,5 @@
 # torchpersist
-A caching decorator for PyTorch computations.
-
-# torchpersist
-
-`torchpersist` is a Python library that provides a caching decorator for PyTorch computations. It simplifies saving and loading results of expensive function calls to and from disk and prevents redundant computations.
+A decorator for caching PyTorch computations.
 
 ## Installation
 
